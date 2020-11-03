@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using ContactManager.DbContexts;
 using ContactManager.Repositories;
 using ContactManager.Services;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -33,6 +34,8 @@ namespace ContactManager
 
             services.AddScoped<IContactManagerRepository, ContactManagerRepository>();
             services.AddScoped<IContactManagerService, ContactManagerService>();
+
+            services.AddMediatR(typeof(Startup));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

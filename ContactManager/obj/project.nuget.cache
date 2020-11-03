@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SfX2oFLyc+4muXD3GaR/7ychp/mYxiRsvJSjm+a9UNxdyrpuXwlnomaEJUoCClHm3hFJp/nC6MyHtIg8+g29OA==",
+  "dgSpecHash": "XFItXa0X91yIr1Zve57NSN2zOoeXxvHMqFXp4PDDFH2JlWF1y/F8yBNO27UZOD8imDFWJQfFbRJN0IT1RcEcjA==",
   "success": true,
   "projectFilePath": "C:\\Git_project\\ContactManager\\ContactManager\\ContactManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lushc\\.nuget\\packages\\csvhelper\\15.0.8\\csvhelper.15.0.8.nupkg.sha512",
+    "C:\\Users\\lushc\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\lushc\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\lushc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\lushc\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\lushc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
