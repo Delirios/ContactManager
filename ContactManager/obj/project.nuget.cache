@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ju06EqfGIEr1KnH89kw8kr8QS0/MxLuExh2x1D/IOuvg2+jZcEa8OOp3+k8wThX/FHQkoK5b2jr8ZVDT+9jtWg==",
+  "dgSpecHash": "SfX2oFLyc+4muXD3GaR/7ychp/mYxiRsvJSjm+a9UNxdyrpuXwlnomaEJUoCClHm3hFJp/nC6MyHtIg8+g29OA==",
   "success": true,
   "projectFilePath": "C:\\Git_project\\ContactManager\\ContactManager\\ContactManager.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lushc\\.nuget\\packages\\csvhelper\\15.0.8\\csvhelper.15.0.8.nupkg.sha512",
     "C:\\Users\\lushc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\lushc\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\lushc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
