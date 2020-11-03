@@ -11,7 +11,6 @@ C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactMana
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.TagHelpers.output.cache
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.RazorCoreGenerate.cache
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
@@ -77,3 +76,4 @@ C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactMana
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.dll
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.pdb
 C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.genruntimeconfig.cache
+C:\Git_project\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs

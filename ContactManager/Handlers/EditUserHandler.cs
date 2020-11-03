@@ -21,6 +21,7 @@ namespace ContactManager.Handlers
         {
             await _contactManagerRepository.EditUser(new User
             {
+                UserId = request.UserId,
                 Name = request.Name,
                 DateOfBirth = request.DateOfBirth,
                 Married = request.Married,

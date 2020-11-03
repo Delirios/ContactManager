@@ -46,7 +46,7 @@ namespace ContactManager.Repositories
 
         public async Task EditUser(User user)
         {
-            _contactManagerContext.Update(user);
+            _contactManagerContext.Users.Update(user);
             await _contactManagerContext.SaveChangesAsync();
 
         }

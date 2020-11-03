@@ -1,0 +1,31 @@
+﻿@model User
+
+<h2>Editing</h2>
+
+<form asp-action="Edit" asp-controller="Home" asp-route-id="UserId">
+    <input asp-for="UserId" type="hidden" />
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Name</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateOfBirth" class="control-label"></label>
+        <input asp-for="DateOfBirth" id="datepicker" type="text" class="form-control" value="@DateTime.Now.ToString("dd-MM-yyyy")" />
+    </div>
+    <div>
+        <input asp-for="Married" type="checkbox" />
+        <label asp-for="Married" class="control-label">Married</label>
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone" class="control-label">Phone</label>
+        <input type="text" asp-for="Phone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Salary" class="control-label">Salary</label>
+        <input type="text" asp-for="Salary" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary btn-lg btn-block" />
+    </div>
+</form>
