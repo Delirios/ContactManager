@@ -17,7 +17,6 @@ namespace ContactManager.Handlers
         {
             _contactManagerRepository = contactManagerRepository;
         }
-
         public async Task<IEnumerable<User>> Handle(GetUsersQuery request, CancellationToken cancellationToken)
         {
             return await _contactManagerRepository.GetUsers();
